@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,8 +9,8 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-        }
-
+        }  
+       
         a {
             text-decoration: none;
         }
@@ -53,10 +53,10 @@
 </head>
 <body>
     <div class="box">
-        <p>codigo de leves hoje ?</p>
+        <p>aceita ser a minha  futura namorada ?</p>
         <div class="buttons-container">
             <button><a href="https://youtu.be/aiSOzVbFp_s">Sim</a></button>
-            <button id="no">Não</button>
+            <button id="no"> Não </button>
         </div>
     </div>
 </body>
