@@ -53,7 +53,7 @@
 </head>
 <body>
     <div class="box">
-        <p>toma banho ?
+        <p>meu filho é perfeito, e vou mandar 10k no pix ? ?
        </p>
         <div class="buttons-container">
             <button><a href="https://youtu.be/0Kuk4Iwalxs?si=hhWYyRr6vFlpv1cT">Sim</a></button>
